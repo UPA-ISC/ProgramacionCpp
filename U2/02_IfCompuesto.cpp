@@ -1,7 +1,7 @@
-/* Unidad 2. Uso del if 
+/* Unidad 2. Uso del if else
    Autor: Luis Ernesto Anaya Tiscareño
    Fecha: 01/09/2022
-   Descripción: Muestra el uso del if simple
+   Descripción: Muestra el uso del if else
 */
 
 //Libreria para manejo de entradas y salida de pantalla
@@ -21,7 +21,10 @@ int main()
    if (numero == dato){
     cout << "El número es igual a dato" << endl;
    }   
- 
+   else{
+    cout << "El número es diferente del dato" << endl;
+   }
+
     //Ejercicio: utilice las diferentes comparaciones ==, !=, <, >, <=, >=
 
     
