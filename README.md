@@ -10,5 +10,5 @@ Aquí encontrarás la estructura de carpetas que llevaremos durante el curso, as
 > 4. U4 Arreglos y archivos
 
 Para clonar este repositorio utilice el siguiente comando.
->       git clone https://github.com/ISEIUPA/ProgramacionCpp.git
+>       git clone https://github.com/UPA-ISC/ProgramacionCpp.git
 
