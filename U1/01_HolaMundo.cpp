@@ -1,6 +1,7 @@
 /* Unidad 1. Hola mundo
    Autor: Luis Ernesto Anaya Tiscareño
    Fecha: 01/09/2022
+   Descripción: Imprime en pantalla un texto 
 */
 
 //Libreria para manejo de entradas y salida de pantalla
