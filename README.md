@@ -1,14 +1,14 @@
-## Bienvenido al curso de programación C++
+## C++ programming course
 
-Aquí encontrarás la estructura de carpetas que llevaremos durante el curso, así como los ejercicios de ejemplo para cada uno de los temas.
+Here you will find the folder structure that we will take during the course, as well as the example exercises for each of the topics.
 
 
-> ### Estructura principal
-> 1. U1 Paradigmas de la programación
-> 2. U2 Estructuras y ciclos
-> 3. U3 Subprocesos y funciones
-> 4. U4 Arreglos y archivos
+> ### Main structure
+> 1. U1 Programming introduction
+> 2. U2 Structures and cycles
+> 3. U3 Functions
+> 4. U4 Files and arrays
 
-Para clonar este repositorio utilice el siguiente comando.
+To clone this repo, type this command on your console.
 >       git clone https://github.com/UPA-ISC/ProgramacionCpp.git
 
