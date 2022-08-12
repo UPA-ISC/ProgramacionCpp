@@ -47,6 +47,10 @@ int main()
    cout << "El descuento aplicado fue de " << descuento*100 << "%" <<endl;
    cout << "El monto final con descuento es de: $" << montoTotal <<endl;
 
+   /*Ejercicio: Realizar un programa en el que se consideran 3 inversionistas, quien haya dado mas dinero
+   será el dueño de la empresa, el segundo será el gerente y el último solo inversor.
+   Considere que dos personas no pueden dar la misma cantidad de dinero. */
+
     //Al ser una función debe retornar un valor, en este caso 0
     return 0;
 }
