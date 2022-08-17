@@ -5,7 +5,7 @@ Here you will find the folder structure that we will take during the course, as 
 
 > ### Main structure
 > 1. U1 Programming introduction
-> 2. U2 Structures and cycles
+> 2. U2 Control structures and cycles
 > 3. U3 Functions
 > 4. U4 Files and arrays
 
