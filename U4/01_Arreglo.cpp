@@ -24,7 +24,7 @@ int main(){
 
     //Mostrar elementos de un vector
     for (int contador = 0; contador<5; contador++){
-        cout << "Dame el valor del vector en la posición " << contador << ": " << numeros[contador]<<endl;
+        cout << "El valor del vector en la posición " << contador << ": " << numeros[contador]<<endl;
     }
 
     return 0;
