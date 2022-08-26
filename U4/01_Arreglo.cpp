@@ -5,7 +5,7 @@
 */
 
 /* Definición de un vector:
-    tipo nombre[tamaño];
+    tipo nombre[tamaño]; 
 */
 
 #include <iostream>
