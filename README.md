@@ -12,4 +12,4 @@ Here you will find the folder structure that we will take during the course, as 
 To clone this repo, type this command on your console.
 >       git clone https://github.com/UPA-ISC/ProgramacionCpp.git
 
-Probando Git por primera vez
+
