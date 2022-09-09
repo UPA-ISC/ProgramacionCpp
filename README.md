@@ -1,7 +1,8 @@
 ## C++ programming course
 
-![C++](/imagenes/c_logo.png)
-
+<div align ="center">
+<img alt="c++" height="60" src="imagenes/c_logo.png"/>
+</div>
 Here you will find the folder structure that we will take during the course, as well as the example exercises for each of the topics.
 
 
