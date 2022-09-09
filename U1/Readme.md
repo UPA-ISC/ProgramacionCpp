@@ -8,6 +8,7 @@ Main program structure in c++
 </div>
 
 ## Preprocessor directives
+Preprocessing directives are always processed before the program is compiled. They start with "#" symbol.
 
 ```c++
 #include <iostream>
