@@ -1,5 +1,7 @@
 ## C++ programming course
 
+![C++](/imagenes/c_logo.png)
+
 Here you will find the folder structure that we will take during the course, as well as the example exercises for each of the topics.
 
 
@@ -13,8 +15,5 @@ To clone this repo, type this command on your console.
 >       git clone https://github.com/UPA-ISC/ProgramacionCpp.git
 
 
-<<<<<<< HEAD
-=======
 You can review some awesome README.md here: 
 >       https://github.com/matiassingers/awesome-readme
->>>>>>> 1ca9cb503e6038aa2fdcf45381564fb3f3870b10
