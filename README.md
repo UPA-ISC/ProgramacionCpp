@@ -13,3 +13,8 @@ To clone this repo, type this command on your console.
 >       git clone https://github.com/UPA-ISC/ProgramacionCpp.git
 
 
+<<<<<<< HEAD
+=======
+You can review some awesome README.md here: 
+>       https://github.com/matiassingers/awesome-readme
+>>>>>>> 1ca9cb503e6038aa2fdcf45381564fb3f3870b10
