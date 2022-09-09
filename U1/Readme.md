@@ -4,7 +4,7 @@ Main program structure in c++
 
 
 <div align ="center">
-<img alt="c++" height="100" src="../imagenes/programParts.png"/>
+<img alt="c++" height="250" src="../imagenes/programParts.png"/>
 </div>
 
 ## Preprocessor directives
