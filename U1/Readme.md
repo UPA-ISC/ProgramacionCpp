@@ -1,5 +1,5 @@
 # Program structure in C++
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 Main program structure in c++
 
 
@@ -36,5 +36,3 @@ To execute a function it must be called by other function.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-# Data types
