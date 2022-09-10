@@ -33,3 +33,8 @@ The parenthesis after "funcion" indicate that funcion is a program buildin block
     }
 ```
 To execute a function it must be called by other function.
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+# Data types
