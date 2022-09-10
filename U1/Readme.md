@@ -25,3 +25,11 @@ int main(){
     return 0;
 }
 ```
+## Functions
+The parenthesis after "funcion" indicate that funcion is a program buildin block called a function. The body of a function is set between braces {}.
+```c++
+    void funcion(){
+        std::cout << "This is a function";
+    }
+```
+To execute a function it must be called by other function.
