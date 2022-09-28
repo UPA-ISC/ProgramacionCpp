@@ -20,6 +20,9 @@ int main()
    cin >> numero;
    if (numero == dato){
     cout << "El número es igual a dato" << endl;
+   }  
+   if (numero != dato){
+    cout << "El número es diferente a dato" << endl;
    }   
  
     //Ejercicio: utilice las diferentes comparaciones ==, !=, <, >, <=, >=
