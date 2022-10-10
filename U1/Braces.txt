@@ -1,0 +1,4 @@
+# Format Curly Braces on Same Line in C++ VSCode
+Go Preferences -> Settings
+Search for:  C_Cpp.clang_format_fallbackStyle
+Change from  "Visual Studio"  to  "{ BasedOnStyle: Google, IndentWidth: 4 }"
