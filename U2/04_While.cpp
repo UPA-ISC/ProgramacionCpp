@@ -21,11 +21,13 @@ int main()
     //Imprime el valor del contador
     cout << "El contador es: " << contador << endl;
 
-    //Incremento del contador, si no se incrementa el ciclo se mantiene indefinidamente
+    //Incremento del contador, si no se incrementa 
+    //el ciclo se mantiene indefinidamente
     contador++;
-   }
+    //contador = contador +1;
+    //contador += 1;
+   }   
    
-
     //Al ser una función debe retornar un valor, en este caso 0
     return 0;
 }

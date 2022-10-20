@@ -1,0 +1,21 @@
+{
+	"Encabezado CPP":{
+		"prefix": "c++",
+		"body": [
+			"/*",
+			"Autor: ${1}",
+			"Fecha: ${2}",
+			"Descripcion: ${3}",
+			"*/",
+			"#include <iostream>",
+			"",
+			"using namespace std;",
+			"",
+			"int main(){",
+			"    ${4}",
+			"    return 0;",
+			"}"
+		],
+		"description": "Encabezado de c++"
+	}
+}
