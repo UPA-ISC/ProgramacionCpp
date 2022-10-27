@@ -38,3 +38,17 @@ void getDatos(){
 void operacion(){
     resultado = dato1*dato2;
 }
+
+/*
+Autor: 
+Fecha: 
+Descripción: 
+*/
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    
+    return 0;
+}

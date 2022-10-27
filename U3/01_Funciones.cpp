@@ -19,27 +19,21 @@ int getMaxVal(int num1, int num2);
 
 //Función principal
 int main(){
-    int num1, num2;
-    int valorMaximo;
+    int primerValor, segundoValor;
+    int valorMax;
 
     cout << "Dame un número: ";
-    cin >> num1;
+    cin >> primerValor;
     cout << "Dame otro número: ";
-    cin >> num2;
+    cin >> segundoValor;
 
     cout << "\n ================ \n";
-    valorMaximo =getMaxVal(num1, num2);
+    valorMax =getMaxVal(primerValor, segundoValor);
 
-    cout << "El valor máximo es: " << valorMaximo << endl;
+    cout << "El valor máximo es: " << valorMax << endl;
     return 0;
 }
 
 int getMaxVal(int num1, int num2){
-    int valorMaximo;
-    if (num1 > num2){
-        valorMaximo = num1;
-    }else{
-        valorMaximo = num2;
-    }
-    return valorMaximo;
+    return (num1>num2)?num1:num2;
 }
